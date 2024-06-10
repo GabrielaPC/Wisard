@@ -1,0 +1,6 @@
+bitarray
+ucimlrepo
+tensorflow
+scikit-learn
+pandas
+matplotlib
